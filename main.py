@@ -7,7 +7,7 @@ if __name__ =="__main__":
         if(i == "FCFS"):
             from FCFS import *
         if(i == "RR"):
-            import RR
+            from RR import *
         if(i == "SJF"):
-            import SJF
+            from SJF import *
 
